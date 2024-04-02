@@ -7,6 +7,7 @@ Welcome to the Traffic Sign Detection project! This project aims to detect and c
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Technologies](#technologies)
 
 ## Introduction
 Traffic Sign Detection is a crucial component of autonomous driving systems and traffic management applications. This project utilizes deep learning models to detect and classify various traffic signs from images or video streams.
@@ -17,4 +18,9 @@ Traffic Sign Detection is a crucial component of autonomous driving systems and 
 - Real-time detection in video streams
 - Easy-to-use interface
 
-
+## Technologies
+- Python
+- Convolutional Neural Networks (CNNs) for image feature extraction and traffic sign classification.
+- OpenCV For image processing tasks, feature extraction, and camera input handling.
+- Traffic Sign Datasets gather labeled datasets containing images of various traffic signs for training and testing.
+- Microsoft Excel
